@@ -1,4 +1,5 @@
 # Version 1.0
+# by PPolosin
 # Imports
 import telebot
 from telebot import types
