@@ -13,7 +13,7 @@ rules = []
 artists_additional = []
 geners = []
 artists = []
-bot = telebot.TeleBot("5089941744:AAHo-meVVAOUCfWGM3dZqQzKdRZHJC1PbmY")
+bot = telebot.TeleBot("")
 last_index = 0
 new_db = "new_data.txt"
 url = 'https://www.youtube.com/results?search_query=official+music+video'
